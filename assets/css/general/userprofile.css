@@ -1,0 +1,15 @@
+.user_data table {
+    table-layout: fixed;
+    max-width: 800px;
+    margin-left: 30px;
+}
+  
+.user_data tr {
+    max-width: 400px;
+    overflow: hidden;
+}
+
+.user_data img {
+    border-width: 5px !important;
+    margin-right: 30px;
+}
